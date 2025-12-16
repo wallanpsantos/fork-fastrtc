@@ -28,7 +28,7 @@ espeakng-loader==0.2.4
 fastapi==0.115.11
 fastrtc==0.0.14
 ffmpy==0.5.0
-filelock==3.17.0
+filelock==3.20.1
 flatbuffers==25.2.10
 frozenlist==1.5.0
 fsspec==2025.3.0
