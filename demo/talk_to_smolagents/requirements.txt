@@ -130,7 +130,7 @@ typer==0.15.1 ; sys_platform != 'emscripten'
 typing-extensions==4.12.2
 tzdata==2025.1
 uritemplate==4.1.1
-urllib3==2.3.0
+urllib3==2.6.3
 uvicorn==0.34.0 ; sys_platform != 'emscripten'
 websockets==15.0
 yarl==1.18.3
