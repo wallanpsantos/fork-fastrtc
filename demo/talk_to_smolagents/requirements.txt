@@ -79,7 +79,7 @@ platformdirs==4.3.6
 pooch==1.8.2
 primp==0.14.0
 propcache==0.3.0
-protobuf==5.29.3
+protobuf==5.29.6
 pycparser==2.22
 pydantic==2.10.6
 pydantic-core==2.27.2
